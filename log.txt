@@ -1,0 +1,10 @@
+Friday 11/09 (2-4pm):
+*Researched some tutorials on how to make RESTFUL APIs via Node.JS
+
+Saturday 12/09 (1-3pm):
+*Researched a few more tutorials
+*Attempted to code by practicing and mimicking other tutorials
+
+Sunday (1-3pm):
+*Tidied up code
+*Made finishing touches
