@@ -21,6 +21,7 @@ server.get("/data/abcd", (req, res) => {
  // Testing out html
 server.get("/", (req, res) => {
     res.sendFile(__dirname + '/index.html');
+    res.send('ci with travis');
  });
 
 // Retrieving JSON
@@ -51,6 +52,7 @@ server.use((req, res, next) => {
             message: "Unknown API endpoint"
     });
 });
+
 
 //  Connect to Port
 server.listen(port, () => {
