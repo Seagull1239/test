@@ -3,6 +3,7 @@ node_js:
   - "stable"
 install:
   - npm install express mocha chai
+  - npm install typescript-require
 cache:
   directories:
     - "node_modules"
