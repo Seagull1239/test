@@ -1,5 +1,5 @@
 const expect = reqiure('chai').expect
-const server = require('../index');
+const server = require('../server');
 
 describe('test', () => {
   it('should return a string', () => {
