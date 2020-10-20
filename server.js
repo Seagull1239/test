@@ -49,7 +49,7 @@ server.use((req, res, next) => {
     res.status(404 || 500); //Catch Not found or Internal Server Errors
     res.json({
             success : false,
-            message: "Unknown API endpoint"
+            message: "Unknown API endpoint test thing"
     });
 });
 
